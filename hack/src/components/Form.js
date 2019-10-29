@@ -20,6 +20,7 @@ export default class Form extends Component {
                     </div>
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
+                <div>form super</div>
             </div>
         )
     }
